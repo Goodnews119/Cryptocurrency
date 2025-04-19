@@ -1,5 +1,4 @@
-python import requests
-
+import request
 # Replace <ACCESS-TOKEN> with your actual API key from GetBlock
 url = "https://go.getblock.io/<ACCESS-TOKEN>/"
 
